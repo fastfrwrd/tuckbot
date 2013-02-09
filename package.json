@@ -1,7 +1,7 @@
 {
   "name": "tuckbot",
   "description": "An IRC bot library for node",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Tucker Bickler",
     "email": "tuckersworld@gmail.com"
@@ -9,5 +9,14 @@
   "dependencies": {
     "irc": "0.3.4",
     "underscore": "1.3.3"
+  },
+  "main": "./tuckbot.js",
+  "author": {
+    "name": "Tucker Bickler",
+    "email": "tuckersworld@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tuckbick/tuckbot.git"
   }
 }
